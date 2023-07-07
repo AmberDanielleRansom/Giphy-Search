@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+.navbar-brand{
+    font-family: 'Loved by the King', cursive; 
+}
 
 body {
     background-color: black;
