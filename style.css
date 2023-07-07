@@ -5,6 +5,12 @@
 }
 .navbar-brand{
     font-family: 'Loved by the King', cursive; 
+    font-size: 2rem;
+}
+
+.nav-link{
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 1rem;
 }
 
 body {
