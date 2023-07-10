@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 .navbar-brand{
     font-family: 'Loved by the King', cursive; 
     font-size: 2rem;
@@ -42,3 +43,4 @@ padding: 1em;
 border-radius: 0.5em;
 font-weight: 400;
 }
+
