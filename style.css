@@ -44,3 +44,11 @@ border-radius: 0.5em;
 font-weight: 400;
 }
 
+@media screen and (max-width: 320px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }
+
+
